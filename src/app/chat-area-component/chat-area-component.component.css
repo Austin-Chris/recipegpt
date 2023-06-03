@@ -48,6 +48,12 @@
   }
   
   .question-section button:hover {
-    background-color: #45a049;
+    background-color:  #4caf50;
+    color:#fff;
+    border-radius: 5px;
+    box-shadow: 0 0 5px#4caf50,
+                0 0 5px #4caf50,
+                0 0 5px #4caf50,
+                0 0 5px #4caf50;
   }
   
